@@ -17,8 +17,10 @@ Learned today, forgotten tomorrow ...
   ![Uni-app](https://img.shields.io/badge/Uni--app-00A1E0?logo=vue.js&logoColor=white)
   ![UnoCSS](https://img.shields.io/badge/UnoCSS-333333?logo=unocss&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
   ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 
 - **Tools**:
   ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
