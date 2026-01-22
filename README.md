@@ -2,7 +2,7 @@
 
 ## 🚀 Skills & Learning
 
-Learned today, forgotten tomorrow ...
+Learn today, forget tomorrow 0.0
 
 - **Languages**:
   ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black)
