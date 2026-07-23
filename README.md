@@ -9,7 +9,6 @@ Learn today, forget tomorrow 0.0
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
   ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 - **Frameworks & Libraries**:
   ![Vue 3](https://img.shields.io/badge/Vue%203-4FC08D?logo=vue.js&logoColor=white)
@@ -20,10 +19,10 @@ Learn today, forget tomorrow 0.0
   ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
   ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
   ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 
 - **Tools**:
   ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
   ![CI/CD](https://img.shields.io/badge/CI%2FCD-D24939?logo=jenkins&logoColor=white)
 
 ## 📈 GitHub Stats
